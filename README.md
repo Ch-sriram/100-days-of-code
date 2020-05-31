@@ -2,7 +2,7 @@
 
 ## Contents
 
-* [Day 0](https://twitter.com/sriram68276699/status/1266674645215797253?s=20): The Announcement
+* [Day 0: The Announcement](https://twitter.com/sriram68276699/status/1266674645215797253?s=20)
 * [Round 1 Log](r1-log.md) [Day 1 to Day 50] (Ongoing).
 
 ## If you've decided to Join
