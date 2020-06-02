@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 003/100 [June 02, 2020]: Wasted Opportunity.**
+  - DSA &mdash; Analysed & Implemented 3 Sorting Algorithms namely Bubble, Selection & Insertion Sort.
+  - Tech &mdash; Revised Advanced ES5 Concepts in JavaScript like event delegation & DOM Manipulation Concepts.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1267899330477715457?s=20)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/d3ac5d88e567ff1978c5cc7de6daaa7e491b2b15)**.
+
 - **Day 002/100 [June 01, 2020]: Wasted Opportunity.**
   - DSA &mdash; Solved 1 Easy Problem (Towers of Hanoi) and 1 Medium Level Problem (Generate Parentheses) in Recursion.
   - Tech &mdash; Revised Advanced ES5 Concepts in JavaScript like event delegation, prototype chain, IIFEs, closures & currying.
