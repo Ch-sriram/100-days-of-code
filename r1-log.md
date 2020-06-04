@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 004/100 [June 03, 2020]: A Refreshing Retreat.**
+  - DSA &mdash; Solved 2 Easy Problems on Counting Sort.
+  - Tech &mdash; Revised ES6 Concepts like Arrow Functions, this & Destructuring.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1268242995284971528)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/2f767d079f5e684961f9ff7325c04731869c7eca)**.
+
 - **Day 003/100 [June 02, 2020]: Wasted Opportunity.**
   - DSA &mdash; Analysed & Implemented 3 Sorting Algorithms namely Bubble, Selection & Insertion Sort.
   - Tech &mdash; Revised Advanced ES5 Concepts in JavaScript like event delegation & DOM Manipulation Concepts.
