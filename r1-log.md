@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 005/100 [June 04, 2020]: The Unsolicited Interview.**
+  - DSA &mdash; Solved 2 Medium Problems on Sorting, 1 Medium Problem on Strings & 1 Medium Problem on Hashing.
+  - Tech &mdash; Revised ES6 Concepts like spread/rest operators (...), Map object, classes & inheritance.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1268611085118013446)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/85865dcb60a9d555822d34dd0003d7c9538aa07a)**.
+
 - **Day 004/100 [June 03, 2020]: A Refreshing Retreat.**
   - DSA &mdash; Solved 2 Easy Problems on Counting Sort.
   - Tech &mdash; Revised ES6 Concepts like Arrow Functions, this & Destructuring.
