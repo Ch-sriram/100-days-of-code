@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 006/100 [June 05, 2020]: The Birthday!**
+  - DSA &mdash; Solved 2 Medium Problems on Merge sort.
+  - Tech &mdash; Learned how to render elements on webpage using react.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1268960517764206592)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/d97a21c645602303b7afaa9904c7656248b21b06)**.
+
 - **Day 005/100 [June 04, 2020]: The Unsolicited Interview.**
   - DSA &mdash; Solved 2 Medium Problems on Sorting, 1 Medium Problem on Strings & 1 Medium Problem on Hashing.
   - Tech &mdash; Revised ES6 Concepts like spread/rest operators (...), Map object, classes & inheritance.
