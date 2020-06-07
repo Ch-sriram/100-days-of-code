@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 007/100 [June 06, 2020]: Let's React**
+  - DSA &mdash; Solved 3 Problems on Sorting (1 Hard Problem).
+  - Tech &mdash; Learned about the props and props.children object in react.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1269369510961860617)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/57d15e33b9315dc0a06a099094164dc233366d18)**.
+
 - **Day 006/100 [June 05, 2020]: The Birthday!**
   - DSA &mdash; Solved 2 Medium Problems on Merge sort.
   - Tech &mdash; Learned how to render elements on webpage using react.
