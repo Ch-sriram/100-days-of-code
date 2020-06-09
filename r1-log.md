@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 008/100 [June 08, 2020]: Practice, Interview, Practice**
+  - DSA &mdash; Solved 2 Problems on Sorting and Hashing.
+  - Tech &mdash; Gave an interview and revised ES5 & ES6 concepts like arguments, DOM manipulation, Event bubbling, etc. Implemented event handler for button (an interview question) on codepen.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1270050752916905985)**.
+  - Link to the *commit history* &mdash; **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/0abd75b260d1f4bf5dcb02b26e77d45711f35865)** & [JS](https://codepen.io/ch-sriram/pen/bGEVgQy).
+
 - **Day 007/100 [June 06, 2020]: Let's React**
   - DSA &mdash; Solved 3 Problems on Sorting (1 Hard Problem).
   - Tech &mdash; Learned about the props and props.children object in react.
