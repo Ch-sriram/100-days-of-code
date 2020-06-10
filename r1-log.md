@@ -10,6 +10,14 @@
 
 ## Daily Log
 
+- **Day 009/100 [June 09, 2020]: The Wait**
+  - DSA &mdash; Solved 3 Problems on Searching & Implemented Linear/Binary Search Algorithms.
+  - Tech &mdash; Learned new React concepts like rendering of components after every call of setState(), asynchronous behaviour of setState() function, separation of concerns using components, nested components & sending state as a prop from one component to another.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1270426183956480000)**.
+  - Link to the *commit history*: 
+    - **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/71ba433a75b9c373fb324026b3737c2d2b66b318)**
+    - React: **[#1](https://github.com/Ch-sriram/react/commit/bbb046138407be5c45422966ffce22faac9563d1)** & **[#2](https://github.com/Ch-sriram/react/commit/13265c1fbb5e4d90bb0f82e8ac5fbe4287de67b5)**
+
 - **Day 008/100 [June 08, 2020]: Practice, Interview, Practice**
   - DSA &mdash; Solved 2 Problems on Sorting and Hashing.
   - Tech &mdash; Gave an interview and revised ES5 & ES6 concepts like arguments, DOM manipulation, Event bubbling, etc. Implemented event handler for button (an interview question) on codepen.
