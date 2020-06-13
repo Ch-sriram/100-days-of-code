@@ -10,7 +10,7 @@
 
 ## Daily Log
 
-- **Day 010/100 [June 09, 2020]: The Wait**
+- **Day 010/100 [June 10, 2020]: The Wait**
   - DSA &mdash; Solved 2 Medium Level Problems on Binary Search.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1270789333864284162)**.
   - Link to the *commit history*: 
