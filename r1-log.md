@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 010/100 [June 09, 2020]: The Wait**
+  - DSA &mdash; Solved 2 Medium Level Problems on Binary Search.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1270789333864284162)**.
+  - Link to the *commit history*: 
+    - **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/e9818909998a287e5e2516a2f98ce99bb6fa6f5a)**
+
 - **Day 009/100 [June 09, 2020]: The Wait**
   - DSA &mdash; Solved 3 Problems on Searching & Implemented Linear/Binary Search Algorithms.
   - Tech &mdash; Learned new React concepts like rendering of components after every call of setState(), asynchronous behaviour of setState() function, separation of concerns using components, nested components & sending state as a prop from one component to another.
