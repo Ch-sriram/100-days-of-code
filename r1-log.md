@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 012/100 [June 16, 2020]: Python Python Python!**
+  - Python &mdash; learned about *args and **kwargs, closures using nonlocal keyword, basics of OOP like classes, inheritance, __init__ (constructor), class object attributes, @classmethod & @staticmethod.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1272960074986647554)**.
+  - Link to the *commit history*: 
+    - Python: **[#1](https://github.com/Ch-sriram/python-advanced-concepts/commit/755792c0d4a0b290402b66ec816844557ddfff3b)**, **[#2](https://github.com/Ch-sriram/python-advanced-concepts/commit/34493d1738d4a75e37881173c4429b5e2738d3db)**, **[#3](https://github.com/Ch-sriram/python-advanced-concepts/commit/a5e2c4257cdde8d160b80eee6f40539ed063ad67)**, **[#4](https://github.com/Ch-sriram/python-advanced-concepts/commit/74b7a39e051637775ed18b7c052ebc94613ab0aa)**, **[#5](https://github.com/Ch-sriram/python-advanced-concepts/commit/68ee049423c8650d9c20a5f40598b140d72a5c41)** & **[#6](https://github.com/Ch-sriram/python-advanced-concepts/commit/253e7084b398e0f928f7e239a783ba254bd0c814)**
+
 - **Day 011/100 [June 14, 2020]: L'Hôpital's Rule**
   - DSA &mdash; Solved 2 Medium Level Problems on Binary Search.
   - React &mdash; learned more on setState() & render().
