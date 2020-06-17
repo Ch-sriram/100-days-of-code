@@ -10,6 +10,14 @@
 
 ## Daily Log
 
+- **Day 011/100 [June 14, 2020]: L'Hôpital's Rule**
+  - DSA &mdash; Solved 2 Medium Level Problems on Binary Search.
+  - React &mdash; learned more on setState() & render().
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1271897204072955904)**.
+  - Link to the *commit history*: 
+    - **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/6bd851ed23a8310ab7309702aca75e1e6d11a5cc)**
+    - React: **[#1](https://github.com/Ch-sriram/react/commit/5a4d5970d90b1871b46c9cbc04c02d3a38560014)**, **[#2](https://github.com/Ch-sriram/react/commit/d4019dad916dcdd797e18b3dc3bf19660a5fbbd4)** & **[#3](https://github.com/Ch-sriram/react/commit/d4019dad916dcdd797e18b3dc3bf19660a5fbbd4)**.
+
 - **Day 010/100 [June 10, 2020]: The Wait**
   - DSA &mdash; Solved 2 Medium Level Problems on Binary Search.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1270789333864284162)**.
