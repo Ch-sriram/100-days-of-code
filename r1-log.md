@@ -3,6 +3,7 @@
 ## Projects/Deployments
 
 - All the code that I wrote for DSA Practice &mdash; **[Problem Solving using Data Structures & Algorithms](https://ch-sriram.github.io/problem-solving-dsa/)**.
+- A Basic React App &mdash; **[monsters-rolodex](https://ch-sriram.github.io/monsters-rolodex/)**
 
 ## Learning Resources
 
