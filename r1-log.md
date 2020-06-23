@@ -10,6 +10,14 @@
 
 ## Daily Log
 
+- **Day 014/100 [June 20, 2020]: The 2nd Round**
+  - DSA &mdash; 2 Problems on Arrays/Objects in the interview.
+  - React &mdash; Deployed a small monster search application which uses `fetch()` to get the data on monsters.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1274061030205743104)**.
+  - Link to the *commit history(s)*:
+    - DSA: **[#1](https://gist.github.com/Ch-sriram/eae47ac61bb90506747cb33e136bc3c5)**.
+    - React: **[monsters-rolodex](https://ch-sriram.github.io/monsters-rolodex/)**.
+
 - **Day 013/100 [June 18, 2020]: High Functioning**
   - Python &mdash; Implementation of dunder methods, map(), zip() & reduce() with list/dict/set comprehensions.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1273702707379843072)**.
