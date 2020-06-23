@@ -10,7 +10,7 @@
 
 ## Daily Log
 
-- **Day 015/100 [June 16, 2020]: Unproductivity Peak!**
+- **Day 015/100 [June 21, 2020]: Unproductivity Peak!**
   - DSA &mdash; 1 Hard Problem based on Binary Search.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1274551733927043073)**.
   - Link to the *commit history*: **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/7b9be75f074feb52a866cdfa3e2477ec871fdbfe)**
