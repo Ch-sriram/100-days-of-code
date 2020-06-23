@@ -10,6 +10,12 @@
 
 ## Daily Log
 
+- **Day 013/100 [June 18, 2020]: High Functioning**
+  - Python &mdash; Implementation of dunder methods, map(), zip() & reduce() with list/dict/set comprehensions.
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1273702707379843072)**.
+  - Link to the *commit history*: 
+    - Python: **[#1](https://github.com/Ch-sriram/python-advanced-concepts/commit/840ba8c0e6044bd9044307f58674966fea1287f5)**, **[#2](https://github.com/Ch-sriram/python-advanced-concepts/commit/a68e1828fea78b1959be247d14d77bc754e1c9bc)**, **[#3](https://github.com/Ch-sriram/python-advanced-concepts/commit/4dc033817e4a953fad6f639036d607b2c12dab72)**, **[#4](https://github.com/Ch-sriram/python-advanced-concepts/commit/602b78b81641e4592343dc17d090790f1306796a)**, **[#5](https://github.com/Ch-sriram/python-advanced-concepts/commit/b6372cbd45b28454d3f5814c8fc5f13bae7511ba)**, **[#6](https://github.com/Ch-sriram/python-advanced-concepts/commit/b1a3a8451c323b9e0c8ff7cbfef5f4a92e365cfd)**, **[#7](https://github.com/Ch-sriram/python-advanced-concepts/commit/482d39996d83781a80b1e4333d04772094fd1602)**, **[#8](https://github.com/Ch-sriram/python-advanced-concepts/commit/bcc79148e30ede3ced36f2820584d9779a718b49)**, [#9](https://github.com/Ch-sriram/python-advanced-concepts/commit/b7b805858837c9ecbab9709a19ecd20da9b7c38c)**, [#10](https://github.com/Ch-sriram/python-advanced-concepts/commit/b7b805858837c9ecbab9709a19ecd20da9b7c38c)**, [#11](https://github.com/Ch-sriram/python-advanced-concepts/commit/e43249dba6347f8d8318508ee53fffa13e7be69c)**, [#12](https://github.com/Ch-sriram/python-advanced-concepts/commit/b6321f70329a13430c3c4b87878da72a2e3b38f7)** & [#13](https://github.com/Ch-sriram/python-advanced-concepts/commit/ba94a6b6b0b5d78a1380868255a104d7a6466f4f)**.
+
 - **Day 012/100 [June 16, 2020]: Python Python Python!**
   - Python &mdash; learned about *args and **kwargs, closures using nonlocal keyword, basics of OOP like classes, inheritance, __init__ (constructor), class object attributes, @classmethod & @staticmethod.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1272960074986647554)**.
