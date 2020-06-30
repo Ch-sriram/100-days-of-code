@@ -11,6 +11,17 @@
 
 ## Daily Log
 
+- **Day 017/100 [June 28, 2020]: Codechef**
+  - DSA &mdash; 6 Problems, 4 easy & 2 medium (Primes & Factorials)
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1276948652305481728)**.
+  - Link to the *commit history*: **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/6d66e21c1ea232a1b67e95136c4428c2edd15686)**
+
+- **Day 016/100 [June 24, 2020]: Aggressive Cows**
+  - DSA &mdash; 1 Hard Problem in SPOJ based on Binary Search.
+  - Java: Advanced OOP Concepts
+  - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1275719426244063237)**.
+  - Link to the *commit history*: **[DSA](https://github.com/Ch-sriram/problem-solving-dsa/commit/fd0a0006ab4a69ecfe80d2e7e67abf4710c5f0c1)**
+
 - **Day 015/100 [June 21, 2020]: Unproductivity Peak!**
   - DSA &mdash; 1 Hard Problem based on Binary Search.
   - **[Link to the tweet of the day](https://twitter.com/sriram68276699/status/1274551733927043073)**.
